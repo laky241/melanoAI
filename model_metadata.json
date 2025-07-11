@@ -1,0 +1,1 @@
+{"model_name": "MobileNetV2 Fine-tuned", "version": "3.0", "trained_on": "2025-07-09 18:19", "classes": ["benign", "invalid", "malignant"]}
